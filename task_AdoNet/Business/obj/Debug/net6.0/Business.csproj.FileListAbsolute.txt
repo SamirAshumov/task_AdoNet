@@ -1,0 +1,17 @@
+C:\Users\samir\source\repos\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\samir\source\repos\Business\bin\Debug\net6.0\Business.dll
+C:\Users\samir\source\repos\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\samir\source\repos\Business\bin\Debug\net6.0\Core.dll
+C:\Users\samir\source\repos\Business\bin\Debug\net6.0\Data.dll
+C:\Users\samir\source\repos\Business\bin\Debug\net6.0\Data.pdb
+C:\Users\samir\source\repos\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\samir\source\repos\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\samir\source\repos\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samir\source\repos\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\samir\source\repos\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\samir\source\repos\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\samir\source\repos\Business\obj\Debug\net6.0\Business.csproj.Up2Date
+C:\Users\samir\source\repos\Business\obj\Debug\net6.0\Business.dll
+C:\Users\samir\source\repos\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\samir\source\repos\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\samir\source\repos\Business\obj\Debug\net6.0\ref\Business.dll
